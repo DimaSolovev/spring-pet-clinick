@@ -1,0 +1,5 @@
+com\dima\petclinick\model\Person.class
+com\dima\petclinick\model\Owner.class
+com\dima\petclinick\model\Pet.class
+com\dima\petclinick\model\PetType.class
+com\dima\petclinick\model\Vet.class

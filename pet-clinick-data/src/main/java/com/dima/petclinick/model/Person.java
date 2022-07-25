@@ -1,12 +1,5 @@
 package com.dima.petclinick.model;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-
-import javax.persistence.MappedSuperclass;
-
 public class Person  {
 
     private String firstName;

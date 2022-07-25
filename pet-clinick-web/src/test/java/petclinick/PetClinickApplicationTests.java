@@ -1,4 +1,4 @@
-package com.dima.petclinick;
+package petclinick;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
