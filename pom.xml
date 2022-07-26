@@ -16,7 +16,7 @@
     </parent>
     <groupId>com.dima</groupId>
     <artifactId>pet-clinick</artifactId>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.4</version>
     <name>pet-clinic</name>
     <description>Pet clinick project</description>
     <properties>
@@ -46,7 +46,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/DimaSolovev/spring-pet-clinick.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>pet-clinick-0.0.4</tag>
   </scm>
 
 </project>
