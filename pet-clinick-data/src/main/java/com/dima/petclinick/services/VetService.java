@@ -6,7 +6,7 @@ import jdk.vm.ci.meta.Value;
 
 import java.util.Set;
 
-public class VetService {
+public interface VetService {
 
     Vet findById(Long id);
     Vet save(Vet vet);
