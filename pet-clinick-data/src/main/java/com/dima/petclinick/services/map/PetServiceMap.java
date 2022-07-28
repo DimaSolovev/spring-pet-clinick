@@ -2,9 +2,11 @@ package com.dima.petclinick.services.map;
 
 import com.dima.petclinick.model.Pet;
 import com.dima.petclinick.services.PetService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
     @Override
     public Set<Pet> findAll() {

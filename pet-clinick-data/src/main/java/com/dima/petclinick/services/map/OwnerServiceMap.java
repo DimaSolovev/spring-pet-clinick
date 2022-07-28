@@ -2,9 +2,11 @@ package com.dima.petclinick.services.map;
 
 import com.dima.petclinick.model.Owner;
 import com.dima.petclinick.services.OwnerService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class OwnerServiceMap extends AbstractMapService<Owner,Long> implements OwnerService {
 
     @Override
