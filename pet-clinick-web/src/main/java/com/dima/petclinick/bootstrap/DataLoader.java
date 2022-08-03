@@ -4,8 +4,6 @@ import com.dima.petclinick.model.Owner;
 import com.dima.petclinick.model.Vet;
 import com.dima.petclinick.services.OwnerService;
 import com.dima.petclinick.services.VetService;
-import com.dima.petclinick.services.map.OwnerServiceMap;
-import com.dima.petclinick.services.map.VetServiceMap;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
