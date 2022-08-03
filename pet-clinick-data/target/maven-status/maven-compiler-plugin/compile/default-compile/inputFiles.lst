@@ -3,10 +3,10 @@ C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\model\
 C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\model\BaseEntity.java
 C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\model\Person.java
 C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\services\PetService.java
-C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\services\map\VetMapService.java
-C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\services\map\PetMapService.java
+C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\services\map\VetServiceMap.java
 C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\model\PetType.java
 C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\services\CrudService.java
+C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\services\map\PetServiceMap.java
 C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\services\map\AbstractMapService.java
 C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\model\Vet.java
 C:\D\JavaP\pet-clinick\pet-clinick-data\src\main\java\com\dima\petclinick\services\OwnerService.java

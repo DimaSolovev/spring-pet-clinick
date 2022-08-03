@@ -1,14 +1,14 @@
 com\dima\petclinick\services\CrudService.class
-com\dima\petclinick\services\map\VetMapService.class
 com\dima\petclinick\model\Owner.class
 com\dima\petclinick\services\OwnerService.class
 com\dima\petclinick\model\Pet.class
 com\dima\petclinick\services\map\OwnerServiceMap.class
 com\dima\petclinick\services\VetService.class
-com\dima\petclinick\services\map\PetMapService.class
+com\dima\petclinick\services\map\VetServiceMap.class
 com\dima\petclinick\model\BaseEntity.class
 com\dima\petclinick\model\Vet.class
 com\dima\petclinick\model\Person.class
 com\dima\petclinick\services\PetService.class
 com\dima\petclinick\services\map\AbstractMapService.class
+com\dima\petclinick\services\map\PetServiceMap.class
 com\dima\petclinick\model\PetType.class
